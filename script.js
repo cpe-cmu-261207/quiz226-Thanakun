@@ -35,7 +35,7 @@ btn_toggle.onclick = () => {
 
 btn_reset.onclick = () => {
   length.value = 5;
-  color.value= "#FFFF00";
+  color.value= "red";
   text.innerHTML  = original;
 } 
 
